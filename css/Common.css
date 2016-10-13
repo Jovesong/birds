@@ -1,0 +1,12 @@
+body,canvas,div{
+    margin: 0px;
+    padding: 0px;
+}
+
+.ground-body{
+    width: 288px;
+    height: 512px;
+    /*background: aqua;*/
+    margin: 0 auto;
+}
+
